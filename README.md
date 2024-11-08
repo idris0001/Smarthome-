@@ -4,4 +4,4 @@ As required, one needs to download the Packet tracer software from https://drive
 
 For the configuration, we use the "RADIUS server", the "devices", and the "router"
 
-tutorial: https://www.youtube.com/watch?v=uJnveEz8sFI
+idea from: https://www.youtube.com/watch?v=uJnveEz8sFI
